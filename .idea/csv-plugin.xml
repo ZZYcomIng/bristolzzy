@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\MOF_Literature_Extraction-main\Literature Extraction\Code\_CommonRedist\2019-11-01-ASR-public_12020 .csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\MOF_Literature_Extraction-main\Literature Extraction\Code\_CommonRedist\local_addtives_cids.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\MOF_Literature_Extraction-main\Literature Extraction\Code\_CommonRedist\local_solvents_cids.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\MOF_Literature_Extraction-main\Literature Extraction\Code\cd_lib\pcplib\local_solvents_cids.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\MOF_Literature_Extraction-main\Literature Extraction\Databases\SynMOF_A.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\MOF_Literature_Extraction-main\Literature Extraction\Databases\Synmof_M_210618.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
